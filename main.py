@@ -1,5 +1,5 @@
 sum = 0
-numbers = [0] * 10
+numbers = [0] * 5
 user_input = int(input())
 numbers[0] = user_input
 max = numbers[0]
